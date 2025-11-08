@@ -1,151 +1,253 @@
-Subject ID,Subject Name,Year,Department
-SCSE01,Data Structures,II,CSE
-SCSE02,Algorithms,II,CSE
-SCSE03,Computer Organization,II,CSE
-SCSE04,Object Oriented Programming,II,CSE
-SCSE05,Software Engineering,II,CSE
-SCSE06,Database Management Systems,II,CSE
-SCSE07,Operating Systems,III,CSE
-SCSE08,Theory of Computation,III,CSE
-SCSE09,Computer Networks,III,CSE
-SCSE10,Machine Learning,III,CSE
-SCSE11,Web Technology,III,CSE
-SCSE12,Compiler Design,III,CSE
-SCSE13,Information Security,III,CSE
-SCSE14,Mobiles Apps Development,III,CSE
-SCSE15,Cloud Computing,III,CSE
-SCSE16,Artificial Intelligence,III,CSE
-SCSE17,Big Data,III,CSE
-SCSE18,Human Computer Interaction,IV,CSE
-SCSE19,Cyber Security,IV,CSE
-SCSE20,IT Project Management,IV,CSE
-SCSE21,Network Management,IV,CSE
-SCSE22,Distributed Systems,IV,CSE
-SCSE23,Digital Image Processing,IV,CSE
-SCAM01,Principles of Management,II,CAM
-SCAM02,Marketing Management,II,CAM
-SCAM03,Financial Accounting,II,CAM
-SCAM04,Cost Accounting,II,CAM
-SCAM05,Human Resource Management,II,CAM
-SCAM06,Quantitative Techniques,II,CAM
-SCAM07,Organizational Behavior,III,CAM
-SCAM08,Strategic Management,III,CAM
-SCAM09,Entrepreneurship,III,CAM
-SCAM10,Management Information Systems,III,CAM
-SCAM11,Research Methodology,III,CAM
-SCAM12,Sales Management,III,CAM
-SCAM13,Retail Management,III,CAM
-SCAM14,Consumer Behaviour,IV,CAM
-SCAM15,Project Management,IV,CAM
-SCAM16,International Business,IV,CAM
-SCAM17,E-Business,IV,CAM
-SCAM18,Service Marketing,IV,CAM
-SCAM19,Global Marketing,IV,CAM
-SCAM20,Corporate Governance,IV,CAM
-SCAM21,Executive Communication,IV,CAM
-SCAM22,Digital Marketing,IV,CAM
-SCAM23,Business Analytics,IV,CAM
-SECE01,Electronic Devices and Circuits,II,ECE
-SECE02,Electromagnetic Waves,II,ECE
-SECE03,Signals and Systems,II,ECE
-SECE04,Communication Systems,II,ECE
-SECE05,Control Systems,III,ECE
-SECE06,Digital Signal Processing,III,ECE
-SECE07,Microprocessors,III,ECE
-SECE08,Embedded Systems,III,ECE
-SECE09,Digital Electronics,III,ECE
-SECE10,VLSI Design,III,ECE
-SECE11,Analog Communication,III,ECE
-SECE12,Optoelectronics,III,ECE
-SECE13,Software Defined Networking,IV,ECE
-SECE14,Wireless Communication,IV,ECE
-SECE15,Android Programming,IV,ECE
-SECE16,Internet of Things,IV,ECE
-SECE17,Digital Image Processing,IV,ECE
-SECE18,Machine Learning,IV,ECE
-SECE19,Artificial Intelligence,IV,ECE
-SECE20,Power Electronics,IV,ECE
-SEEE01,Circuit Theory,II,EEE
-SEEE02,Electrical Machines,II,EEE
-SEEE03,Power Systems,II,EEE
-SEEE04,Electromagnetic Fields,II,EEE
-SEEE05,Control Systems,III,EEE
-SEEE06,Power Electronics,III,EEE
-SEEE07,Machine Design,III,EEE
-SEEE08,Electrical Drives,III,EEE
-SEEE09,Renewable Energy Maintenance,III,EEE
-SEEE10,Smart Grid Technologies,III,EEE
-SEEE11,High Voltage Engineering,III,EEE
-SEEE12,Industry Automation,IV,EEE
-SEEE13,Electrical Machine Modeling,IV,EEE
-SEEE14,Economic Operation of Power Systems,IV,EEE
-SEEE15,Environmental Impact of Power Generation,IV,EEE
-SEEE16,CAD for Electrical Components,IV,EEE
-SEEE17,Electrical Safety Engineering,IV,EEE
-SEEE18,Design of Electrical Systems,IV,EEE
-SEEE19,Electric Vehicles,IV,EEE
-SEEE20,Artificial Intelligence in Power System,IV,EEE
-SMEC01,Engineering Mechanics,II,MEC
-SMEC02,Fluid Mechanics,II,MEC
-SMEC03,Heat Transfer,II,MEC
-SMEC04,Manufacturing Processes,II,MEC
-SMEC05,Machine Design,III,MEC
-SMEC06,Material Science,III,MEC
-SMEC07,Thermodynamics,III,MEC
-SMEC08,Mechanical Vibrations,III,MEC
-SMEC09,Finite Element Analysis,IV,MEC
-SMEC10,Industrial Engineering,IV,MEC
-SMEC11,Process Control Systems,IV,MEC
-SMEC12,Automobile Engineering,IV,MEC
-SMEC13,Robotics,IV,MEC
-SCIV01,Engineering Surveying,II,CIV
-SCIV02,Geotechnical Engineering,II,CIV
-SCIV03,Structural Analysis,II,CIV
-SCIV04,Hydraulics,II,CIV
-SCIV05,Concrete Technology,III,CIV
-SCIV06,Traffic Engineering,III,CIV
-SCIV07,Transportation Engineering,III,CIV
-SCIV08,Waste Water Engineering,III,CIV
-SCIV09,Highway Engineering,IV,CIV
-SCIV10,Estimation and Costing,IV,CIV
-SCIV11,Construction Management,IV,CIV
-SCIV12,Environmental Engineering,IV,CIV
-SITD01,Data Structures and Algorithms,II,ITD
-SITD02,Web Development,II,ITD
-SITD03,Computer Networks,II,ITD
-SITD04,Mobile Computing,II,ITD
-SITD05,DBMS,III,ITD
-SITD06,Software Engineering,III,ITD
-SITD07,Project Management,III,ITD
-SITD08,Testing and Quality Assurance,III,ITD
-SITD09,Information Systems,IV,ITD
-SITD10,Network Security,IV,ITD
-SITD11,Cloud Computing,IV,ITD
-SITD12,Blockchain Technology,IV,ITD
-SADS01,Data Mining,III,ADS
-SADS02,Artificial Intelligence,III,ADS
-SADS03,Cyber Security,IV,ADS
-SADS04,System Design,IV,ADS
-SCBS01,Digital Marketing,III,CBS
-SCBS02,Financial Accounting,III,CBS
-SCBS03,Elements of Business,III,CBS
-SCBS04,Workplace Communication,IV,CBS
-SCBS05,Managerial Economics,IV,CBS
-SCSO01,Software Testing,IV,CSO
-SCSO02,Software Design Patterns,IV,CSO
-SCSO03,Web Services and REST,IV,CSO
-SCSO04,Agile Methodology,IV,CSO
-SCIC01,Communication Skills,II,CIC
-SCIC02,Professional Ethics,II,CIC
-SCIC03,Aptitude,II,CIC
-SCIC04,Soft Skills Development,II,CIC
-SCOMM01,Interpersonal Skills,II,Common
-SCOMM02,Leadership Skills,II,Common
-SCOMM03,Teamwork and Collaboration,II,Common
-SCOMM04,Public Speaking,II,Common
-SCOMM05,Project Work I,III,Common
-SCOMM06,Project Work II,IV,Common
-SCOMM07,Industry Exposure,IV,Common
-SCOMM08,Entrepreneurship Development,IV,Common
-SCOMM09,Research Project,IV,Common
-SCOMM10,Internship,IV,Common
+Subject ID,Subject Name,Department,Type
+SCSE01,Data Structures,CSE,Theory
+SCSE02,Algorithms,CSE,Theory
+SCSE03,Data Structures Lab,CSE,Lab
+SCSE04,Object Oriented Programming,CSE,Theory
+SCSE05,DBMS Lab,CSE,Lab
+SCSE06,Computer Organization,CSE,Theory
+SCSE07,Operating Systems,CSE,Theory
+SCSE08,Operating Systems Lab,CSE,Lab
+SCSE09,Computer Networks,CSE,Theory
+SCSE10,Machine Learning,CSE,Theory
+SCSE11,Computer Networks Lab,CSE,Lab
+SCSE12,Software Engineering,CSE,Theory
+SCSE13,Compiler Design,CSE,Theory
+SCSE14,Project Work I,CSE,Project
+SCSE15,Web Technologies,CSE,Theory
+SCSE16,Artificial Intelligence,CSE,Theory
+SCSE17,AI Lab,CSE,Lab
+SCSE18,Cyber Security,CSE,Theory
+SCSE19,Cloud Computing,CSE,Theory
+SCSE20,Big Data Analytics,CSE,Theory
+SCSM01,Python Programming,CSM,Theory
+SCSM02,Data Analytics,CSM,Theory
+SCSM03,Python Programming Lab,CSM,Lab
+SCSM04,Statistics for Data Science,CSM,Theory
+SCSM05,Data Analytics Lab,CSM,Lab
+SCSM06,Probability and Statistics,CSM,Theory
+SCSM07,Machine Learning Lab,CSM,Lab
+SCSM08,Deep Learning,CSM,Theory
+SCSM09,Deep Learning Lab,CSM,Lab
+SCSM10,Project Work I,CSM,Project
+SCSM11,AI Project Lab,CSM,Lab
+SCSM12,Natural Language Processing,CSM,Theory
+SCSM13,Computer Vision,CSM,Theory
+SCSM14,Neural Networks,CSM,Theory
+SECE01,Electronic Devices and Circuits,ECE,Theory
+SECE02,Electronic Circuits Lab,ECE,Lab
+SECE03,Signals and Systems,ECE,Theory
+SECE04,Signals and Systems Lab,ECE,Lab
+SECE05,Analog Electronics,ECE,Theory
+SECE06,Digital Signal Processing,ECE,Theory
+SECE07,Digital Signal Processing Lab,ECE,Lab
+SECE08,Communication Systems,ECE,Theory
+SECE09,Digital Electronics,ECE,Theory
+SECE10,VLSI Design,ECE,Theory
+SECE11,VLSI Design Lab,ECE,Lab
+SECE12,Microprocessors and Microcontrollers,ECE,Theory
+SECE13,Control Systems,ECE,Theory
+SECE14,Project Work I,ECE,Project
+SECE15,Electromagnetic Fields,ECE,Theory
+SECE16,Internet of Things,ECE,Theory
+SECE17,IoT Lab,ECE,Lab
+SECE18,Machine Learning,ECE,Theory
+SECE19,Embedded Systems,ECE,Theory
+SECE20,Wireless Communications,ECE,Theory
+SEEE01,Circuit Theory,EEE,Theory
+SEEE02,Electrical Machines,EEE,Theory
+SEEE03,Electrical Machines Lab,EEE,Lab
+SEEE04,Electrical Circuits Lab,EEE,Lab
+SEEE05,Power Systems,EEE,Theory
+SEEE06,Power Electronics,EEE,Theory
+SEEE07,Power Electronics Lab,EEE,Lab
+SEEE08,Control Systems,EEE,Theory
+SEEE09,Electrical Measurements,EEE,Theory
+SEEE10,Smart Grid Technologies,EEE,Theory
+SEEE11,Control Systems Lab,EEE,Lab
+SEEE12,Electric Drives,EEE,Theory
+SEEE13,Power System Analysis,EEE,Theory
+SEEE14,Project Work I,EEE,Project
+SEEE15,Renewable Energy Systems,EEE,Theory
+SEEE16,Power System Protection,EEE,Theory
+SEEE17,High Voltage Engineering,EEE,Theory
+SEEE18,Smart Grid Lab,EEE,Lab
+SEEE19,Electric Vehicles,EEE,Theory
+SEEE20,Artificial Intelligence in Power System,EEE,Theory
+SMEC01,Engineering Mechanics,MEC,Theory
+SMEC02,Engineering Workshop Lab,MEC,Lab
+SMEC03,CAD Lab,MEC,Lab
+SMEC04,Manufacturing Processes,MEC,Theory
+SMEC05,Machine Design,MEC,Theory
+SMEC06,Thermodynamics Lab,MEC,Lab
+SMEC07,Thermodynamics,MEC,Theory
+SMEC08,Manufacturing Lab,MEC,Lab
+SMEC09,Fluid Mechanics,MEC,Theory
+SMEC10,Project Work I,MEC,Project
+SMEC11,Strength of Materials,MEC,Theory
+SMEC12,Automobile Engineering,MEC,Theory
+SMEC13,Robotics,MEC,Theory
+SMEC14,Robotics Lab,MEC,Lab
+SMEC15,Heat Transfer,MEC,Theory
+SMEC16,Industrial Engineering,MEC,Theory
+SMEC17,Mechatronics,MEC,Theory
+SMEC18,CAD/CAM,MEC,Theory
+SCIV01,Surveying Lab,CIV,Lab
+SCIV02,Geotechnical Engineering,CIV,Theory
+SCIV03,Structural Analysis,CIV,Theory
+SCIV04,Geotechnical Lab,CIV,Lab
+SCIV05,Concrete Technology,CIV,Theory
+SCIV06,Concrete Technology Lab,CIV,Lab
+SCIV07,Transportation Engineering,CIV,Theory
+SCIV08,Highway Engineering Lab,CIV,Lab
+SCIV09,Project Work I,CIV,Project
+SCIV10,Environmental Engineering Lab,CIV,Lab
+SCIV11,Construction Management,CIV,Theory
+SCIV12,Environmental Engineering,CIV,Theory
+SCIV13,Building Materials,CIV,Theory
+SCIV14,Fluid Mechanics,CIV,Theory
+SCIV15,Water Resources Engineering,CIV,Theory
+SCIV16,Steel Structures,CIV,Theory
+SCIV17,Earthquake Engineering,CIV,Theory
+SITD01,Data Structures and Algorithms,ITD,Theory
+SITD02,Programming Lab,ITD,Lab
+SITD03,Computer Networks,ITD,Theory
+SITD04,Web Technologies Lab,ITD,Lab
+SITD05,Database Management Systems,ITD,Theory
+SITD06,Software Engineering,ITD,Theory
+SITD07,Software Engineering Lab,ITD,Lab
+SITD08,Operating Systems,ITD,Theory
+SITD09,Mobile App Development Lab,ITD,Lab
+SITD10,Project Work I,ITD,Project
+SITD11,Cloud Computing,ITD,Theory
+SITD12,Blockchain Technology,ITD,Theory
+SITD13,Cloud Computing Lab,ITD,Lab
+SITD14,Java Programming,ITD,Theory
+SITD15,Web Development,ITD,Theory
+SITD16,Mobile App Development,ITD,Theory
+SITD17,Artificial Intelligence,ITD,Theory
+SITD18,DevOps,ITD,Theory
+SADS01,Data Mining,ADS,Theory
+SADS02,Artificial Intelligence,ADS,Theory
+SADS03,Cyber Security,ADS,Theory
+SADS04,System Design,ADS,Theory
+SADS05,Python Lab,ADS,Lab
+SADS06,Statistics Lab,ADS,Lab
+SADS07,Data Mining Lab,ADS,Lab
+SADS08,AI Lab,ADS,Lab
+SADS09,Big Data Lab,ADS,Lab
+SADS10,Project Work I,ADS,Project
+SADS11,Machine Learning,ADS,Theory
+SADS12,Statistics,ADS,Theory
+SADS13,Python Programming,ADS,Theory
+SADS14,Big Data Analytics,ADS,Theory
+SADS15,Deep Learning,ADS,Theory
+SADS16,Natural Language Processing,ADS,Theory
+SADS17,Data Warehousing,ADS,Theory
+SADS18,Business Intelligence,ADS,Theory
+SCBS01,Digital Marketing,CBS,Theory
+SCBS02,Business Analytics Lab,CBS,Lab
+SCBS03,Digital Marketing Lab,CBS,Lab
+SCBS04,Workplace Communication,CBS,Theory
+SCBS05,Managerial Economics,CBS,Theory
+SCBS06,Data Visualization Lab,CBS,Lab
+SCBS07,Business Intelligence Lab,CBS,Lab
+SCBS08,E-Commerce Lab,CBS,Lab
+SCBS09,Project Work I,CBS,Project
+SCBS10,E-Commerce,CBS,Theory
+SCBS11,Business Analytics,CBS,Theory
+SCBS12,Marketing Management,CBS,Theory
+SCBS13,Strategic Management,CBS,Theory
+SCBS14,Financial Management,CBS,Theory
+SCBS15,Human Resource Management,CBS,Theory
+SCBS16,Entrepreneurship,CBS,Theory
+SCSO01,Software Testing,CSO,Theory
+SCSO02,Cybersecurity Fundamentals Lab,CSO,Lab
+SCSO03,Network Security Lab,CSO,Lab
+SCSO04,Agile Methodology,CSO,Theory
+SCSO05,Ethical Hacking Lab,CSO,Lab
+SCSO06,Cryptography Lab,CSO,Lab
+SCSO07,Digital Forensics Lab,CSO,Lab
+SCSO08,Project Work I,CSO,Project
+SCSO09,Network Security,CSO,Theory
+SCSO10,Cryptography,CSO,Theory
+SCSO11,Ethical Hacking,CSO,Theory
+SCSO12,Cybersecurity Fundamentals,CSO,Theory
+SCSO13,Information Security,CSO,Theory
+SCSO14,Digital Forensics,CSO,Theory
+SCSO15,Penetration Testing,CSO,Theory
+SCSO16,Malware Analysis,CSO,Theory
+SCSO17,Security Operations,CSO,Theory
+SCSO18,Incident Response,CSO,Theory
+SCIC01,Communication Skills,CIC,Theory
+SCIC02,Professional Ethics,CIC,Theory
+SCIC03,IoT Fundamentals Lab,CIC,Lab
+SCIC04,Embedded Systems Lab,CIC,Lab
+SCIC05,IoT Security Lab,CIC,Lab
+SCIC06,Sensor Networks Lab,CIC,Lab
+SCIC07,IoT Applications Lab,CIC,Lab
+SCIC08,Project Work I,CIC,Project
+SCIC09,IoT Fundamentals,CIC,Theory
+SCIC10,Embedded Systems,CIC,Theory
+SCIC11,Sensor Networks,CIC,Theory
+SCIC12,IoT Security,CIC,Theory
+SCIC13,IoT Protocols,CIC,Theory
+SCIC14,Smart Systems,CIC,Theory
+SCIC15,Edge Computing,CIC,Theory
+SCIC16,IoT Applications,CIC,Theory
+SCIC17,Industrial IoT,CIC,Theory
+SCIC18,Smart Cities,CIC,Theory
+SCOMM01,Soft Skills,CSE,Theory
+SCOMM01,Soft Skills,CSM,Theory
+SCOMM01,Soft Skills,ECE,Theory
+SCOMM01,Soft Skills,EEE,Theory
+SCOMM01,Soft Skills,MEC,Theory
+SCOMM01,Soft Skills,CIV,Theory
+SCOMM01,Soft Skills,ITD,Theory
+SCOMM01,Soft Skills,ADS,Theory
+SCOMM01,Soft Skills,CBS,Theory
+SCOMM01,Soft Skills,CSO,Theory
+SCOMM01,Soft Skills,CIC,Theory
+SCOMM02,Aptitude,CSE,Theory
+SCOMM02,Aptitude,CSM,Theory
+SCOMM02,Aptitude,ECE,Theory
+SCOMM02,Aptitude,EEE,Theory
+SCOMM02,Aptitude,MEC,Theory
+SCOMM02,Aptitude,CIV,Theory
+SCOMM02,Aptitude,ITD,Theory
+SCOMM02,Aptitude,ADS,Theory
+SCOMM02,Aptitude,CBS,Theory
+SCOMM02,Aptitude,CSO,Theory
+SCOMM02,Aptitude,CIC,Theory
+SCOMM03,Verbal Ability,CSE,Theory
+SCOMM03,Verbal Ability,CSM,Theory
+SCOMM03,Verbal Ability,ECE,Theory
+SCOMM03,Verbal Ability,EEE,Theory
+SCOMM03,Verbal Ability,MEC,Theory
+SCOMM03,Verbal Ability,CIV,Theory
+SCOMM03,Verbal Ability,ITD,Theory
+SCOMM03,Verbal Ability,ADS,Theory
+SCOMM03,Verbal Ability,CBS,Theory
+SCOMM03,Verbal Ability,CSO,Theory
+SCOMM03,Verbal Ability,CIC,Theory
+SCOMM04,Professional Ethics,CSE,Theory
+SCOMM04,Professional Ethics,CSM,Theory
+SCOMM04,Professional Ethics,ECE,Theory
+SCOMM04,Professional Ethics,EEE,Theory
+SCOMM04,Professional Ethics,MEC,Theory
+SCOMM04,Professional Ethics,CIV,Theory
+SCOMM04,Professional Ethics,ITD,Theory
+SCOMM04,Professional Ethics,ADS,Theory
+SCOMM04,Professional Ethics,CBS,Theory
+SCOMM04,Professional Ethics,CSO,Theory
+SCOMM04,Professional Ethics,CIC,Theory
+SCOMM05,Entrepreneurship,CSE,Theory
+SCOMM05,Entrepreneurship,CSM,Theory
+SCOMM05,Entrepreneurship,ECE,Theory
+SCOMM05,Entrepreneurship,EEE,Theory
+SCOMM05,Entrepreneurship,MEC,Theory
+SCOMM05,Entrepreneurship,CIV,Theory
+SCOMM05,Entrepreneurship,ITD,Theory
+SCOMM05,Entrepreneurship,ADS,Theory
+SCOMM05,Entrepreneurship,CBS,Theory
+SCOMM05,Entrepreneurship,CSO,Theory
+SCOMM05,Entrepreneurship,CIC,Theory
