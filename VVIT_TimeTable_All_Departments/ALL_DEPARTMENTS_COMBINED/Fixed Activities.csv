@@ -1,62 +1,62 @@
 Year,Department,Section,Day,Slot ID,Activity,Faculty ID
-II,CSE,A,Friday,T08,Clubs,Faculty ID
-II,CSE,A,Friday,T09,Clubs,Faculty ID
-II,CSE,B,Friday,T08,Clubs,Faculty ID
-II,CSE,B,Friday,T09,Clubs,Faculty ID
-II,CSE,C,Friday,T08,Clubs,Faculty ID
-II,CSE,C,Friday,T09,Clubs,Faculty ID
-II,CAM,A,Friday,T08,Clubs,Faculty ID
-II,CAM,A,Friday,T09,Clubs,Faculty ID
-II,ECE,A,Friday,T08,Clubs,Faculty ID
-II,ECE,A,Friday,T09,Clubs,Faculty ID
-II,EEE,A,Friday,T08,Clubs,Faculty ID
-II,EEE,A,Friday,T09,Clubs,Faculty ID
-II,MEC,A,Friday,T08,Clubs,Faculty ID
-II,MEC,A,Friday,T09,Clubs,Faculty ID
-II,CIV,A,Friday,T08,Clubs,Faculty ID
-II,CIV,A,Friday,T09,Clubs,Faculty ID
-II,ITD,A,Friday,T08,Clubs,Faculty ID
-II,ITD,A,Friday,T09,Clubs,Faculty ID
-II,ADS,A,Friday,T08,Clubs,Faculty ID
-II,ADS,A,Friday,T09,Clubs,Faculty ID
-II,CBS,A,Friday,T08,Clubs,Faculty ID
-II,CBS,A,Friday,T09,Clubs,Faculty ID
-II,CSO,A,Friday,T08,Clubs,Faculty ID
-II,CSO,A,Friday,T09,Clubs,Faculty ID
-II,CIC,A,Friday,T08,Clubs,Faculty ID
-II,CIC,A,Friday,T09,Clubs,Faculty ID
-III,CSE,A,Friday,T08,Clubs,Faculty ID
-III,CSE,A,Friday,T09,Clubs,Faculty ID
-III,CSE,B,Friday,T08,Clubs,Faculty ID
-III,CSE,B,Friday,T09,Clubs,Faculty ID
-III,CSE,C,Friday,T08,Clubs,Faculty ID
-III,CSE,C,Friday,T09,Clubs,Faculty ID
-III,CAM,A,Friday,T08,Clubs,Faculty ID
-III,ECE,A,Friday,T08,Clubs,Faculty ID
-III,ECE,A,Friday,T09,Clubs,Faculty ID
-III,EEE,A,Friday,T08,Clubs,Faculty ID
-III,MEC,A,Friday,T08,Clubs,Faculty ID
-III,CIV,A,Friday,T08,Clubs,Faculty ID
-III,ITD,A,Friday,T08,Clubs,Faculty ID
-III,ADS,A,Friday,T08,Clubs,Faculty ID
-III,CBS,A,Friday,T08,Clubs,Faculty ID
-III,CSO,A,Friday,T08,Clubs,Faculty ID
-III,CIC,A,Friday,T08,Clubs,Faculty ID
-IV,ECE,A,Monday,T01,Project Work,Faculty ID
-IV,ECE,A,Wednesday,T02,Project Work,Faculty ID
-IV,ECE,A,Thursday,T03,Project Work,Faculty ID
-IV,ECE,B,Monday,T01,Project Work,Faculty ID
-IV,ECE,B,Wednesday,T02,Project Work,Faculty ID
-IV,ECE,B,Thursday,T03,Project Work,Faculty ID
-IV,ECE,C,Monday,T01,Project Work,Faculty ID
-IV,ECE,C,Wednesday,T02,Project Work,Faculty ID
-IV,ECE,C,Thursday,T03,Project Work,Faculty ID
-II,CSE,A,Saturday,T07,Counseling,Faculty ID
-II,CSE,B,Saturday,T07,Counseling,Faculty ID
-II,CSE,C,Saturday,T07,Counseling,Faculty ID
-III,CSE,A,Saturday,T07,Counseling,Faculty ID
-III,CSE,B,Saturday,T07,Counseling,Faculty ID
-III,CSE,C,Saturday,T07,Counseling,Faculty ID
-IV,CSE,A,Saturday,T07,Counseling,Faculty ID
-IV,CSE,B,Saturday,T07,Counseling,Faculty ID
-IV,CSE,C,Saturday,T07,Counseling,Faculty ID
+II,CSE,A,Friday,T08,Clubs,None
+II,CSE,A,Friday,T09,Clubs,None
+II,CSE,B,Friday,T08,Clubs,None
+II,CSE,B,Friday,T09,Clubs,None
+II,CSE,C,Friday,T08,Clubs,None
+II,CSE,C,Friday,T09,Clubs,None
+II,CAM,A,Friday,T08,Clubs,None
+II,CAM,A,Friday,T09,Clubs,None
+II,ECE,A,Friday,T08,Clubs,None
+II,ECE,A,Friday,T09,Clubs,None
+II,EEE,A,Friday,T08,Clubs,None
+II,EEE,A,Friday,T09,Clubs,None
+II,MEC,A,Friday,T08,Clubs,None
+II,MEC,A,Friday,T09,Clubs,None
+II,CIV,A,Friday,T08,Clubs,None
+II,CIV,A,Friday,T09,Clubs,None
+II,ITD,A,Friday,T08,Clubs,None
+II,ITD,A,Friday,T09,Clubs,None
+II,ADS,A,Friday,T08,Clubs,None
+II,ADS,A,Friday,T09,Clubs,None
+II,CBS,A,Friday,T08,Clubs,None
+II,CBS,A,Friday,T09,Clubs,None
+II,CSO,A,Friday,T08,Clubs,None
+II,CSO,A,Friday,T09,Clubs,None
+II,CIC,A,Friday,T08,Clubs,None
+II,CIC,A,Friday,T09,Clubs,None
+III,CSE,A,Friday,T08,Clubs,None
+III,CSE,A,Friday,T09,Clubs,None
+III,CSE,B,Friday,T08,Clubs,None
+III,CSE,B,Friday,T09,Clubs,None
+III,CSE,C,Friday,T08,Clubs,None
+III,CSE,C,Friday,T09,Clubs,None
+III,CAM,A,Friday,T08,Clubs,None
+III,ECE,A,Friday,T08,Clubs,None
+III,ECE,A,Friday,T09,Clubs,None
+III,EEE,A,Friday,T08,Clubs,None
+III,MEC,A,Friday,T08,Clubs,None
+III,CIV,A,Friday,T08,Clubs,None
+III,ITD,A,Friday,T08,Clubs,None
+III,ADS,A,Friday,T08,Clubs,None
+III,CBS,A,Friday,T08,Clubs,None
+III,CSO,A,Friday,T08,Clubs,None
+III,CIC,A,Friday,T08,Clubs,None
+IV,ECE,A,Monday,T01,Project Work,None
+IV,ECE,A,Wednesday,T02,Project Work,None
+IV,ECE,A,Thursday,T03,Project Work,None
+IV,ECE,B,Monday,T01,Project Work,None
+IV,ECE,B,Wednesday,T02,Project Work,None
+IV,ECE,B,Thursday,T03,Project Work,None
+IV,ECE,C,Monday,T01,Project Work,None
+IV,ECE,C,Wednesday,T02,Project Work,None
+IV,ECE,C,Thursday,T03,Project Work,None
+II,CSE,A,Saturday,T07,Counseling,None
+II,CSE,B,Saturday,T07,Counseling,None
+II,CSE,C,Saturday,T07,Counseling,None
+III,CSE,A,Saturday,T07,Counseling,None
+III,CSE,B,Saturday,T07,Counseling,None
+III,CSE,C,Saturday,T07,Counseling,None
+IV,CSE,A,Saturday,T07,Counseling,None
+IV,CSE,B,Saturday,T07,Counseling,None
+IV,CSE,C,Saturday,T07,Counseling,None
