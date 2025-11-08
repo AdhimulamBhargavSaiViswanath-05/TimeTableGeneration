@@ -46,10 +46,10 @@ IV,ECE,A,Monday,T01,Project Work,Faculty ID
 IV,ECE,A,Wednesday,T02,Project Work,Faculty ID
 IV,ECE,A,Thursday,T03,Project Work,Faculty ID
 IV,ECE,B,Monday,T01,Project Work,Faculty ID
-IV,ECE=B,Wednesday,T02,Project Work,Faculty ID
+IV,ECE,B,Wednesday,T02,Project Work,Faculty ID
 IV,ECE,B,Thursday,T03,Project Work,Faculty ID
 IV,ECE,C,Monday,T01,Project Work,Faculty ID
-IV,ECE=C,Wednesday,T02,Project Work,Faculty ID
+IV,ECE,C,Wednesday,T02,Project Work,Faculty ID
 IV,ECE,C,Thursday,T03,Project Work,Faculty ID
 II,CSE,A,Saturday,T07,Counseling,Faculty ID
 II,CSE,B,Saturday,T07,Counseling,Faculty ID
