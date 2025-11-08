@@ -1,0 +1,151 @@
+Subject ID,Subject Name,Year,Department
+SCSE01,Data Structures,II,CSE
+SCSE02,Algorithms,II,CSE
+SCSE03,Computer Organization,II,CSE
+SCSE04,Object Oriented Programming,II,CSE
+SCSE05,Software Engineering,II,CSE
+SCSE06,Database Management Systems,II,CSE
+SCSE07,Operating Systems,III,CSE
+SCSE08,Theory of Computation,III,CSE
+SCSE09,Computer Networks,III,CSE
+SCSE10,Machine Learning,III,CSE
+SCSE11,Web Technology,III,CSE
+SCSE12,Compiler Design,III,CSE
+SCSE13,Information Security,III,CSE
+SCSE14,Mobiles Apps Development,III,CSE
+SCSE15,Cloud Computing,III,CSE
+SCSE16,Artificial Intelligence,III,CSE
+SCSE17,Big Data,III,CSE
+SCSE18,Human Computer Interaction,IV,CSE
+SCSE19,Cyber Security,IV,CSE
+SCSE20,IT Project Management,IV,CSE
+SCSE21,Network Management,IV,CSE
+SCSE22,Distributed Systems,IV,CSE
+SCSE23,Digital Image Processing,IV,CSE
+SCAM01,Principles of Management,II,CAM
+SCAM02,Marketing Management,II,CAM
+SCAM03,Financial Accounting,II,CAM
+SCAM04,Cost Accounting,II,CAM
+SCAM05,Human Resource Management,II,CAM
+SCAM06,Quantitative Techniques,II,CAM
+SCAM07,Organizational Behavior,III,CAM
+SCAM08,Strategic Management,III,CAM
+SCAM09,Entrepreneurship,III,CAM
+SCAM10,Management Information Systems,III,CAM
+SCAM11,Research Methodology,III,CAM
+SCAM12,Sales Management,III,CAM
+SCAM13,Retail Management,III,CAM
+SCAM14,Consumer Behaviour,IV,CAM
+SCAM15,Project Management,IV,CAM
+SCAM16,International Business,IV,CAM
+SCAM17,E-Business,IV,CAM
+SCAM18,Service Marketing,IV,CAM
+SCAM19,Global Marketing,IV,CAM
+SCAM20,Corporate Governance,IV,CAM
+SCAM21,Executive Communication,IV,CAM
+SCAM22,Digital Marketing,IV,CAM
+SCAM23,Business Analytics,IV,CAM
+SECE01,Electronic Devices and Circuits,II,ECE
+SECE02,Electromagnetic Waves,II,ECE
+SECE03,Signals and Systems,II,ECE
+SECE04,Communication Systems,II,ECE
+SECE05,Control Systems,III,ECE
+SECE06,Digital Signal Processing,III,ECE
+SECE07,Microprocessors,III,ECE
+SECE08,Embedded Systems,III,ECE
+SECE09,Digital Electronics,III,ECE
+SECE10,VLSI Design,III,ECE
+SECE11,Analog Communication,III,ECE
+SECE12,Optoelectronics,III,ECE
+SECE13,Software Defined Networking,IV,ECE
+SECE14,Wireless Communication,IV,ECE
+SECE15,Android Programming,IV,ECE
+SECE16,Internet of Things,IV,ECE
+SECE17,Digital Image Processing,IV,ECE
+SECE18,Machine Learning,IV,ECE
+SECE19,Artificial Intelligence,IV,ECE
+SECE20,Power Electronics,IV,ECE
+SEEE01,Circuit Theory,II,EEE
+SEEE02,Electrical Machines,II,EEE
+SEEE03,Power Systems,II,EEE
+SEEE04,Electromagnetic Fields,II,EEE
+SEEE05,Control Systems,III,EEE
+SEEE06,Power Electronics,III,EEE
+SEEE07,Machine Design,III,EEE
+SEEE08,Electrical Drives,III,EEE
+SEEE09,Renewable Energy Maintenance,III,EEE
+SEEE10,Smart Grid Technologies,III,EEE
+SEEE11,High Voltage Engineering,III,EEE
+SEEE12,Industry Automation,IV,EEE
+SEEE13,Electrical Machine Modeling,IV,EEE
+SEEE14,Economic Operation of Power Systems,IV,EEE
+SEEE15,Environmental Impact of Power Generation,IV,EEE
+SEEE16,CAD for Electrical Components,IV,EEE
+SEEE17,Electrical Safety Engineering,IV,EEE
+SEEE18,Design of Electrical Systems,IV,EEE
+SEEE19,Electric Vehicles,IV,EEE
+SEEE20,Artificial Intelligence in Power System,IV,EEE
+SMEC01,Engineering Mechanics,II,MEC
+SMEC02,Fluid Mechanics,II,MEC
+SMEC03,Heat Transfer,II,MEC
+SMEC04,Manufacturing Processes,II,MEC
+SMEC05,Machine Design,III,MEC
+SMEC06,Material Science,III,MEC
+SMEC07,Thermodynamics,III,MEC
+SMEC08,Mechanical Vibrations,III,MEC
+SMEC09,Finite Element Analysis,IV,MEC
+SMEC10,Industrial Engineering,IV,MEC
+SMEC11,Process Control Systems,IV,MEC
+SMEC12,Automobile Engineering,IV,MEC
+SMEC13,Robotics,IV,MEC
+SCIV01,Engineering Surveying,II,CIV
+SCIV02,Geotechnical Engineering,II,CIV
+SCIV03,Structural Analysis,II,CIV
+SCIV04,Hydraulics,II,CIV
+SCIV05,Concrete Technology,III,CIV
+SCIV06,Traffic Engineering,III,CIV
+SCIV07,Transportation Engineering,III,CIV
+SCIV08,Waste Water Engineering,III,CIV
+SCIV09,Highway Engineering,IV,CIV
+SCIV10,Estimation and Costing,IV,CIV
+SCIV11,Construction Management,IV,CIV
+SCIV12,Environmental Engineering,IV,CIV
+SITD01,Data Structures and Algorithms,II,ITD
+SITD02,Web Development,II,ITD
+SITD03,Computer Networks,II,ITD
+SITD04,Mobile Computing,II,ITD
+SITD05,DBMS,III,ITD
+SITD06,Software Engineering,III,ITD
+SITD07,Project Management,III,ITD
+SITD08,Testing and Quality Assurance,III,ITD
+SITD09,Information Systems,IV,ITD
+SITD10,Network Security,IV,ITD
+SITD11,Cloud Computing,IV,ITD
+SITD12,Blockchain Technology,IV,ITD
+SADS01,Data Mining,III,ADS
+SADS02,Artificial Intelligence,III,ADS
+SADS03,Cyber Security,IV,ADS
+SADS04,System Design,IV,ADS
+SCBS01,Digital Marketing,III,CBS
+SCBS02,Financial Accounting,III,CBS
+SCBS03,Elements of Business,III,CBS
+SCBS04,Workplace Communication,IV,CBS
+SCBS05,Managerial Economics,IV,CBS
+SCSO01,Software Testing,IV,CSO
+SCSO02,Software Design Patterns,IV,CSO
+SCSO03,Web Services and REST,IV,CSO
+SCSO04,Agile Methodology,IV,CSO
+SCIC01,Communication Skills,II,CIC
+SCIC02,Professional Ethics,II,CIC
+SCIC03,Aptitude,II,CIC
+SCIC04,Soft Skills Development,II,CIC
+SCOMM01,Interpersonal Skills,II,Common
+SCOMM02,Leadership Skills,II,Common
+SCOMM03,Teamwork and Collaboration,II,Common
+SCOMM04,Public Speaking,II,Common
+SCOMM05,Project Work I,III,Common
+SCOMM06,Project Work II,IV,Common
+SCOMM07,Industry Exposure,IV,Common
+SCOMM08,Entrepreneurship Development,IV,Common
+SCOMM09,Research Project,IV,Common
+SCOMM10,Internship,IV,Common
