@@ -2,165 +2,99 @@ Year,Department,Section,Subject ID,Lab Name,Faculty ID
 II,CSE,A,SCSE03,Data Structures Lab,FCSE01
 II,CSE,B,SCSE03,Data Structures Lab,FCSE02
 II,CSE,C,SCSE03,Data Structures Lab,FCSE03
-II,CSE,A,SCSE05,DBMS Lab,FCSE04
-II,CSE,B,SCSE05,DBMS Lab,FCSE05
-II,CSE,C,SCSE05,DBMS Lab,FCSE06
 III,CSE,A,SCSE08,Operating Systems Lab,FCSE07
 III,CSE,B,SCSE08,Operating Systems Lab,FCSE08
 III,CSE,C,SCSE08,Operating Systems Lab,FCSE09
-III,CSE,A,SCSE11,Computer Networks Lab,FCSE10
-III,CSE,B,SCSE11,Computer Networks Lab,FCSE11
-III,CSE,C,SCSE11,Computer Networks Lab,FCSE12
 IV,CSE,A,SCSE17,AI Lab,FCSE13
 IV,CSE,B,SCSE17,AI Lab,FCSE14
 IV,CSE,C,SCSE17,AI Lab,FCSE15
 II,CSM,A,SCSM03,Python Programming Lab,FCSM01
 II,CSM,B,SCSM03,Python Programming Lab,FCSM02
 II,CSM,C,SCSM03,Python Programming Lab,FCSM03
-II,CSM,A,SCSM05,Data Analytics Lab,FCSM04
-II,CSM,B,SCSM05,Data Analytics Lab,FCSM05
-II,CSM,C,SCSM05,Data Analytics Lab,FCSM06
 III,CSM,A,SCSM07,Machine Learning Lab,FCSM07
 III,CSM,B,SCSM07,Machine Learning Lab,FCSM08
 III,CSM,C,SCSM07,Machine Learning Lab,FCSM09
-III,CSM,A,SCSM09,Deep Learning Lab,FCSM10
-III,CSM,B,SCSM09,Deep Learning Lab,FCSM11
-III,CSM,C,SCSM09,Deep Learning Lab,FCSM12
 IV,CSM,A,SCSM11,AI Project Lab,FCSM13
 IV,CSM,B,SCSM11,AI Project Lab,FCSM14
 IV,CSM,C,SCSM11,AI Project Lab,FCSM15
 II,ECE,A,SECE02,Electronic Circuits Lab,FECE01
 II,ECE,B,SECE02,Electronic Circuits Lab,FECE02
 II,ECE,C,SECE02,Electronic Circuits Lab,FECE03
-II,ECE,A,SECE04,Signals and Systems Lab,FECE04
-II,ECE,B,SECE04,Signals and Systems Lab,FECE05
-II,ECE,C,SECE04,Signals and Systems Lab,FECE06
 III,ECE,A,SECE07,Digital Signal Processing Lab,FECE07
 III,ECE,B,SECE07,Digital Signal Processing Lab,FECE08
 III,ECE,C,SECE07,Digital Signal Processing Lab,FECE09
-III,ECE,A,SECE11,VLSI Design Lab,FECE10
-III,ECE,B,SECE11,VLSI Design Lab,FECE11
-III,ECE,C,SECE11,VLSI Design Lab,FECE12
 IV,ECE,A,SECE17,IoT Lab,FECE13
 IV,ECE,B,SECE17,IoT Lab,FECE14
 IV,ECE,C,SECE17,IoT Lab,FECE15
 II,EEE,A,SEEE03,Electrical Machines Lab,FEEE01
 II,EEE,B,SEEE03,Electrical Machines Lab,FEEE02
 II,EEE,C,SEEE03,Electrical Machines Lab,FEEE03
-II,EEE,A,SEEE04,Electrical Circuits Lab,FEEE04
-II,EEE,B,SEEE04,Electrical Circuits Lab,FEEE05
-II,EEE,C,SEEE04,Electrical Circuits Lab,FEEE06
 III,EEE,A,SEEE07,Power Electronics Lab,FEEE07
 III,EEE,B,SEEE07,Power Electronics Lab,FEEE08
 III,EEE,C,SEEE07,Power Electronics Lab,FEEE09
-III,EEE,A,SEEE11,Control Systems Lab,FEEE10
-III,EEE,B,SEEE11,Control Systems Lab,FEEE11
-III,EEE,C,SEEE11,Control Systems Lab,FEEE12
 IV,EEE,A,SEEE18,Smart Grid Lab,FEEE13
 IV,EEE,B,SEEE18,Smart Grid Lab,FEEE14
 IV,EEE,C,SEEE18,Smart Grid Lab,FEEE15
 II,MEC,A,SMEC02,Engineering Workshop Lab,FMEC01
 II,MEC,B,SMEC02,Engineering Workshop Lab,FMEC02
 II,MEC,C,SMEC02,Engineering Workshop Lab,FMEC03
-II,MEC,A,SMEC03,CAD Lab,FMEC04
-II,MEC,B,SMEC03,CAD Lab,FMEC05
-II,MEC,C,SMEC03,CAD Lab,FMEC06
 III,MEC,A,SMEC06,Thermodynamics Lab,FMEC07
 III,MEC,B,SMEC06,Thermodynamics Lab,FMEC08
 III,MEC,C,SMEC06,Thermodynamics Lab,FMEC09
-III,MEC,A,SMEC08,Manufacturing Lab,FMEC10
-III,MEC,B,SMEC08,Manufacturing Lab,FMEC11
-III,MEC,C,SMEC08,Manufacturing Lab,FMEC12
 IV,MEC,A,SMEC14,Robotics Lab,FMEC13
 IV,MEC,B,SMEC14,Robotics Lab,FMEC14
 IV,MEC,C,SMEC14,Robotics Lab,FMEC15
 II,CIV,A,SCIV01,Surveying Lab,FCIV01
 II,CIV,B,SCIV01,Surveying Lab,FCIV02
 II,CIV,C,SCIV01,Surveying Lab,FCIV03
-II,CIV,A,SCIV04,Geotechnical Lab,FCIV04
-II,CIV,B,SCIV04,Geotechnical Lab,FCIV05
-II,CIV,C,SCIV04,Geotechnical Lab,FCIV06
 III,CIV,A,SCIV06,Concrete Technology Lab,FCIV07
 III,CIV,B,SCIV06,Concrete Technology Lab,FCIV08
 III,CIV,C,SCIV06,Concrete Technology Lab,FCIV09
-III,CIV,A,SCIV08,Highway Engineering Lab,FCIV10
-III,CIV,B,SCIV08,Highway Engineering Lab,FCIV11
-III,CIV,C,SCIV08,Highway Engineering Lab,FCIV12
 IV,CIV,A,SCIV10,Environmental Engineering Lab,FCIV13
 IV,CIV,B,SCIV10,Environmental Engineering Lab,FCIV14
 IV,CIV,C,SCIV10,Environmental Engineering Lab,FCIV15
 II,ITD,A,SITD02,Programming Lab,FITD01
 II,ITD,B,SITD02,Programming Lab,FITD02
 II,ITD,C,SITD02,Programming Lab,FITD03
-II,ITD,A,SITD04,Web Technologies Lab,FITD04
-II,ITD,B,SITD04,Web Technologies Lab,FITD05
-II,ITD,C,SITD04,Web Technologies Lab,FITD06
 III,ITD,A,SITD07,Software Engineering Lab,FITD07
 III,ITD,B,SITD07,Software Engineering Lab,FITD08
 III,ITD,C,SITD07,Software Engineering Lab,FITD09
-III,ITD,A,SITD09,Mobile App Development Lab,FITD10
-III,ITD,B,SITD09,Mobile App Development Lab,FITD11
-III,ITD,C,SITD09,Mobile App Development Lab,FITD12
 IV,ITD,A,SITD13,Cloud Computing Lab,FITD13
 IV,ITD,B,SITD13,Cloud Computing Lab,FITD14
 IV,ITD,C,SITD13,Cloud Computing Lab,FITD15
 II,ADS,A,SADS05,Python Lab,FADS01
 II,ADS,B,SADS05,Python Lab,FADS02
 II,ADS,C,SADS05,Python Lab,FADS03
-II,ADS,A,SADS06,Statistics Lab,FADS04
-II,ADS,B,SADS06,Statistics Lab,FADS05
-II,ADS,C,SADS06,Statistics Lab,FADS06
 III,ADS,A,SADS07,Data Mining Lab,FADS07
 III,ADS,B,SADS07,Data Mining Lab,FADS08
 III,ADS,C,SADS07,Data Mining Lab,FADS09
-III,ADS,A,SADS08,AI Lab,FADS10
-III,ADS,B,SADS08,AI Lab,FADS11
-III,ADS,C,SADS08,AI Lab,FADS12
 IV,ADS,A,SADS09,Big Data Lab,FADS13
 IV,ADS,B,SADS09,Big Data Lab,FADS14
 IV,ADS,C,SADS09,Big Data Lab,FADS15
 II,CBS,A,SCBS02,Business Analytics Lab,FCBS01
 II,CBS,B,SCBS02,Business Analytics Lab,FCBS02
 II,CBS,C,SCBS02,Business Analytics Lab,FCBS03
-II,CBS,A,SCBS03,Digital Marketing Lab,FCBS04
-II,CBS,B,SCBS03,Digital Marketing Lab,FCBS05
-II,CBS,C,SCBS03,Digital Marketing Lab,FCBS06
 III,CBS,A,SCBS06,Data Visualization Lab,FCBS07
 III,CBS,B,SCBS06,Data Visualization Lab,FCBS08
 III,CBS,C,SCBS06,Data Visualization Lab,FCBS09
-III,CBS,A,SCBS07,Business Intelligence Lab,FCBS10
-III,CBS,B,SCBS07,Business Intelligence Lab,FCBS11
-III,CBS,C,SCBS07,Business Intelligence Lab,FCBS12
 IV,CBS,A,SCBS08,E-Commerce Lab,FCBS13
 IV,CBS,B,SCBS08,E-Commerce Lab,FCBS14
 IV,CBS,C,SCBS08,E-Commerce Lab,FCBS15
 II,CSO,A,SCSO02,Cybersecurity Fundamentals Lab,FCSO01
 II,CSO,B,SCSO02,Cybersecurity Fundamentals Lab,FCSO02
 II,CSO,C,SCSO02,Cybersecurity Fundamentals Lab,FCSO03
-II,CSO,A,SCSO03,Network Security Lab,FCSO04
-II,CSO,B,SCSO03,Network Security Lab,FCSO05
-II,CSO,C,SCSO03,Network Security Lab,FCSO06
 III,CSO,A,SCSO05,Ethical Hacking Lab,FCSO07
 III,CSO,B,SCSO05,Ethical Hacking Lab,FCSO08
 III,CSO,C,SCSO05,Ethical Hacking Lab,FCSO09
-III,CSO,A,SCSO06,Cryptography Lab,FCSO10
-III,CSO,B,SCSO06,Cryptography Lab,FCSO11
-III,CSO,C,SCSO06,Cryptography Lab,FCSO12
 IV,CSO,A,SCSO07,Digital Forensics Lab,FCSO13
 IV,CSO,B,SCSO07,Digital Forensics Lab,FCSO14
 IV,CSO,C,SCSO07,Digital Forensics Lab,FCSO15
 II,CIC,A,SCIC03,IoT Fundamentals Lab,FCIC01
 II,CIC,B,SCIC03,IoT Fundamentals Lab,FCIC02
 II,CIC,C,SCIC03,IoT Fundamentals Lab,FCIC03
-II,CIC,A,SCIC04,Embedded Systems Lab,FCIC04
-II,CIC,B,SCIC04,Embedded Systems Lab,FCIC05
-II,CIC,C,SCIC04,Embedded Systems Lab,FCIC06
 III,CIC,A,SCIC05,IoT Security Lab,FCIC07
 III,CIC,B,SCIC05,IoT Security Lab,FCIC08
 III,CIC,C,SCIC05,IoT Security Lab,FCIC09
-III,CIC,A,SCIC06,Sensor Networks Lab,FCIC10
-III,CIC,B,SCIC06,Sensor Networks Lab,FCIC11
-III,CIC,C,SCIC06,Sensor Networks Lab,FCIC12
 IV,CIC,A,SCIC07,IoT Applications Lab,FCIC13
 IV,CIC,B,SCIC07,IoT Applications Lab,FCIC14
 IV,CIC,C,SCIC07,IoT Applications Lab,FCIC15
