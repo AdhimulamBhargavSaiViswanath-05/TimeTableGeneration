@@ -1,52 +1,133 @@
-Year,Department,Section,Subject ID,Subject Name,Priority
-II,CSE,A,SCSE01,Data Structures,High
-II,CSE,A,SCSE02,Algorithms,High
-II,CSE,A,SCSE04,Object Oriented Programming,High
-II,CSE,B,SCSE01,Data Structures,High
-II,CSE,B,SCSE02,Algorithms,High
-II,CSE,B,SCSE04,Object Oriented Programming,High
-II,CSE,C,SCSE01,Data Structures,High
-II,CSE,C,SCSE02,Algorithms,High
-II,CSE,C,SCSE04,Object Oriented Programming,High
-III,CSE,A,SCSE07,Operating Systems,High
-III,CSE,A,SCSE09,Computer Networks,High
-III,CSE,A,SCSE10,Machine Learning,High
-III,CSE,B,SCSE07,Operating Systems,High
-III,CSE,B,SCSE09,Computer Networks,High
-III,CSE,B,SCSE10,Machine Learning,High
-III,CSE,C,SCSE07,Operating Systems,High
-III,CSE,C,SCSE09,Computer Networks,High
-III,CSE,C,SCSE10,Machine Learning,High
-IV,CSE,A,SCSE16,Artificial Intelligence,High
-IV,CSE,A,SCSE19,Cyber Security,High
-IV,CSE,B,SCSE16,Artificial Intelligence,High
-IV,CSE,B,SCSE19,Cyber Security,High
-IV,CSE,C,SCSE16,Artificial Intelligence,High
-IV,CSE,C,SCSE19,Cyber Security,High
-II,CAM,A,SCAM06,Quantitative Techniques,High
-II,CAM,B,SCAM06,Quantitative Techniques,High
-II,CAM,C,SCAM06,Quantitative Techniques,High
-III,CAM,A,SCAM08,Strategic Management,High
-III,CAM,B,SCAM08,Strategic Management,High
-III,CAM,C,SCAM08,Strategic Management,High
-IV,CAM,A,SCAM22,Digital Marketing,High
-IV,CAM,B,SCAM22,Digital Marketing,High
-IV,CAM,C,SCAM22,Digital Marketing,High
-II,ECE,A,SECE01,Electronic Devices and Circuits,High
-II,ECE,A,SECE03,Signals and Systems,High
-II,ECE,B,SECE01,Electronic Devices and Circuits,High
-II,ECE,B,SECE03,Signals and Systems,High
-II,ECE,C,SECE01,Electronic Devices and Circuits,High
-II,ECE,C,SECE03,Signals and Systems,High
-III,ECE,A,SECE06,Digital Signal Processing,High
-III,ECE,A,SECE10,VLSI Design,High
-III,ECE,B,SECE06,Digital Signal Processing,High
-III,ECE,B,SECE10,VLSI Design,High
-III,ECE,C,SECE06,Digital Signal Processing,High
-III,ECE,C,SECE10,VLSI Design,High
-IV,ECE,A,SECE16,Internet of Things,High
-IV,ECE,A,SECE18,Machine Learning,High
-IV,ECE,B,SECE16,Internet of Things,High
-IV,ECE,B,SECE18,Machine Learning,High
-IV,ECE,C,SECE16,Internet of Things,High
-IV,ECE,C,SECE18,Machine Learning,High
+Subject,Year
+Data Structures,II
+Algorithms,II
+Object Oriented Programming,II
+DBMS,II
+Computer Organization,II
+Discrete Mathematics,II
+Operating Systems,III
+Computer Networks,III
+Machine Learning,III
+Software Engineering,III
+Compiler Design,III
+Web Technologies,III
+Artificial Intelligence,IV
+Cyber Security,IV
+Cloud Computing,IV
+Big Data Analytics,IV
+Blockchain Technology,IV
+Internet of Things,IV
+Python Programming,II
+Data Analytics,II
+Statistics for Data Science,II
+Probability and Statistics,II
+Deep Learning,III
+Natural Language Processing,III
+Computer Vision,III
+Reinforcement Learning,III
+Data Visualization,IV
+Neural Networks,IV
+Advanced Machine Learning,IV
+Electronic Devices and Circuits,II
+Signals and Systems,II
+Analog Electronics,II
+Digital Electronics,II
+Electromagnetic Fields,II
+Digital Signal Processing,III
+Communication Systems,III
+VLSI Design,III
+Microprocessors and Microcontrollers,III
+Control Systems,III
+Embedded Systems,IV
+Wireless Communications,IV
+Optical Communications,IV
+Circuit Theory,II
+Electrical Machines,II
+Power Systems,II
+Electrical Measurements,II
+Power Electronics,III
+Control Systems,III
+Smart Grid Technologies,III
+Electric Drives,III
+Electric Vehicles,IV
+Renewable Energy Systems,IV
+Power System Protection,IV
+Engineering Mechanics,II
+Thermodynamics,II
+Fluid Mechanics,II
+Manufacturing Processes,II
+Strength of Materials,II
+Machine Design,III
+Heat Transfer,III
+Automobile Engineering,III
+Industrial Engineering,III
+Robotics,IV
+Mechatronics,IV
+CAD/CAM,IV
+Surveying,II
+Geotechnical Engineering,II
+Structural Analysis,II
+Building Materials,II
+Fluid Mechanics,II
+Concrete Technology,III
+Transportation Engineering,III
+Water Resources Engineering,III
+Steel Structures,III
+Construction Management,IV
+Environmental Engineering,IV
+Earthquake Engineering,IV
+Computer Networks,II
+Database Management Systems,II
+Operating Systems,II
+Java Programming,II
+Software Engineering,III
+Web Development,III
+Mobile App Development,III
+Artificial Intelligence,III
+Cloud Computing,IV
+Blockchain Technology,IV
+DevOps,IV
+Data Mining,II
+Machine Learning,II
+Statistics,II
+Python Programming,II
+Artificial Intelligence,III
+Big Data Analytics,III
+Deep Learning,III
+Natural Language Processing,III
+Cyber Security,IV
+Data Warehousing,IV
+Business Intelligence,IV
+Digital Marketing,II
+E-Commerce,II
+Business Analytics,II
+Marketing Management,II
+Strategic Management,III
+Financial Management,III
+Human Resource Management,III
+Workplace Communication,IV
+Managerial Economics,IV
+Entrepreneurship,IV
+Network Security,II
+Cryptography,II
+Ethical Hacking,II
+Cybersecurity Fundamentals,II
+Information Security,III
+Digital Forensics,III
+Penetration Testing,III
+Malware Analysis,III
+Security Operations,IV
+Incident Response,IV
+Security Governance,IV
+IoT Fundamentals,II
+Embedded Systems,II
+Sensor Networks,II
+Communication Skills,II
+Professional Ethics,II
+IoT Security,III
+IoT Protocols,III
+Smart Systems,III
+Edge Computing,III
+IoT Applications,IV
+Industrial IoT,IV
+Smart Cities,IV
