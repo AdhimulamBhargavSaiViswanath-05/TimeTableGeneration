@@ -1,0 +1,52 @@
+Year,Department,Section,Subject ID,Subject Name,Priority
+II,CSE,A,SCSE01,Data Structures,High
+II,CSE,A,SCSE02,Algorithms,High
+II,CSE,A,SCSE04,Object Oriented Programming,High
+II,CSE,B,SCSE01,Data Structures,High
+II,CSE,B,SCSE02,Algorithms,High
+II,CSE,B,SCSE04,Object Oriented Programming,High
+II,CSE,C,SCSE01,Data Structures,High
+II,CSE,C,SCSE02,Algorithms,High
+II,CSE,C,SCSE04,Object Oriented Programming,High
+III,CSE,A,SCSE07,Operating Systems,High
+III,CSE,A,SCSE09,Computer Networks,High
+III,CSE,A,SCSE10,Machine Learning,High
+III,CSE,B,SCSE07,Operating Systems,High
+III,CSE,B,SCSE09,Computer Networks,High
+III,CSE,B,SCSE10,Machine Learning,High
+III,CSE,C,SCSE07,Operating Systems,High
+III,CSE,C,SCSE09,Computer Networks,High
+III,CSE,C,SCSE10,Machine Learning,High
+IV,CSE,A,SCSE16,Artificial Intelligence,High
+IV,CSE,A,SCSE19,Cyber Security,High
+IV,CSE,B,SCSE16,Artificial Intelligence,High
+IV,CSE,B,SCSE19,Cyber Security,High
+IV,CSE,C,SCSE16,Artificial Intelligence,High
+IV,CSE,C,SCSE19,Cyber Security,High
+II,CAM,A,SCAM06,Quantitative Techniques,High
+II,CAM,B,SCAM06,Quantitative Techniques,High
+II,CAM,C,SCAM06,Quantitative Techniques,High
+III,CAM,A,SCAM08,Strategic Management,High
+III,CAM,B,SCAM08,Strategic Management,High
+III,CAM,C,SCAM08,Strategic Management,High
+IV,CAM,A,SCAM22,Digital Marketing,High
+IV,CAM,B,SCAM22,Digital Marketing,High
+IV,CAM,C,SCAM22,Digital Marketing,High
+II,ECE,A,SECE01,Electronic Devices and Circuits,High
+II,ECE,A,SECE03,Signals and Systems,High
+II,ECE,B,SECE01,Electronic Devices and Circuits,High
+II,ECE,B,SECE03,Signals and Systems,High
+II,ECE,C,SECE01,Electronic Devices and Circuits,High
+II,ECE,C,SECE03,Signals and Systems,High
+III,ECE,A,SECE06,Digital Signal Processing,High
+III,ECE,A,SECE10,VLSI Design,High
+III,ECE,B,SECE06,Digital Signal Processing,High
+III,ECE,B,SECE10,VLSI Design,High
+III,ECE,C,SECE06,Digital Signal Processing,High
+III,ECE,C,SECE10,VLSI Design,High
+IV,ECE,A,SECE16,Internet of Things,High
+IV,ECE,A,SECE18,Machine Learning,High
+IV,ECE,B,SECE16,Internet of Things,High
+IV,ECE,B,SECE18,Machine Learning,High
+IV,ECE,C,SECE16,Internet of Things,High
+IV,ECE,C,SECE18,Machine Learning,High
